@@ -1,5 +1,5 @@
 name: consul
-version: 4.0.0
+version: 4.0.1
 appVersion: 1.4.0
 description: Highly available and distributed service discovery and key-value store
   designed with support for the modern data center to make distributed systems and
